@@ -1161,5 +1161,5 @@ void rezolvareCuplaj(){
 
 
 int main(){
-    rezolvareHamilton();
+    
 }
